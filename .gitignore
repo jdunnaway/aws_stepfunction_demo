@@ -1,0 +1,7 @@
+*.tfstate*
+*.terraform*
+set_creds.sh
+**/node_modules
+**/package-lock.json
+**/.DS_Store
+**/*.zip
